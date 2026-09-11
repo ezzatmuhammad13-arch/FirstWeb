@@ -1,11 +1,12 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>ABOLAIS, DAUDAY</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<a name="top"></a>
     
 <body>
+<a name="top"></a>
     <!-- heading 3 -->
     <h3>More About Us Using HTML Lists</h3>
     
